@@ -1,4 +1,4 @@
-Hi there 👋
+#Hi there 👋
 My name is Oscar, and I'm a MSc Data Science student interested in all things Python & Data Science!
 
 🔭 I’m currently working on builduing up the basics of Python and its libraries: mainly Pandas & Numpy.
