@@ -2,7 +2,7 @@
 My name is Oscar, and I'm a MSc Data Scientist interested in all things related to Full Stack Data Science!
 
 🔭 I’m currently working on learning scalability of machine learning models on 
- Java.
+ Java as well as diving in the Linux universe.
 
 🌱 I recently built a code to automatically assess & analyze Past Medical Histories, check out all my codes here
 
