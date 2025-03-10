@@ -10,5 +10,3 @@ I’m Oscar, an MSc in Data Science & AI, passionate about agentic AI, ML, autom
 	•	Kaggle & Open Source – ML competitions & contributions.
 
 📩 Open to collaborations! Reach me at oscar.yanez.feijoo@gmail.com | GitHub.
-
-Send ideas to oscar.yanez.feijoo@gmail.com
