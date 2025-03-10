@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Oscar, and I'm a MSc Data Scientist interested in all things related to Full Stack Data Science!
+My name is Oscar, and I'm a MSc Data Scientist interested in all things related to Full Stack Data Science & AI!
 
 🔭 I’m currently working on learning scalability of machine learning models on 
  Java as well as diving in the Linux universe.
