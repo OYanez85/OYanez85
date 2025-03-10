@@ -1,11 +1,13 @@
-# Hi there 👋
-My name is Oscar, and I'm a MSc Data Scientist interested in all things related to Full Stack Data Science & AI!
+# Hi there! 👋
 
-🔭 I’m currently working on learning scalability of machine learning models on 
- Java as well as diving in the Linux universe.
+I’m Oscar, an MSc in Data Science & AI, passionate about agentic AI, ML, automation, and cybersecurity.
 
-🌱 I recently built a code to automatically assess & analyze Past Medical Histories, check out all my codes here
+🚀 What I’m Working On:
+	•	AI Agents & Automation – Exploring AutoGen, LangChain, and RAG.
+	•	Raspberry Pi & Parallel Computing – ML clusters & personal cloud storage.
+	•	Cybersecurity & Linux – Ethical hacking & automation.
+	•	Kaggle & Open Source – ML competitions & contributions.
 
-👯 I’m looking to collaborate on Data Science projects!
+📩 Open to collaborations! Reach me at oscar.yanez.feijoo@gmail.com | GitHub.
 
 Send ideas to oscar.yanez.feijoo@gmail.com
