@@ -56,9 +56,9 @@
 
 ## 🤝 Let’s Collaborate
 📩 oscar.yanez.feijoo@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+💼 [LinkedIn](www.linkedin.com/in/oscar-yanez-feijoo-28474688)  
 👨‍💻 [GitHub](https://github.com/OYanez85)  
-🤖 [Hugging Face](https://huggingface.co/yourusername)  
-📊 [Kaggle](https://kaggle.com/yourusername)  
-🧠 [Dev.to Blog](https://dev.to/yourusername)
+🤖 [Hugging Face](https://huggingface.co/OscarYanez85)  
+📊 [Kaggle](https://www.kaggle.com/oscaryezfeijo)  
+🧠 [Dev.to Blog](https://dev.to/oyanez85)
 
