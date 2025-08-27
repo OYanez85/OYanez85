@@ -51,9 +51,12 @@
 
 ---
 
-## ✍️ Latest Blog Posts
-- [How I Built a Voice-Enabled AI Agent for Medical Triage](#)  
-- [From Nurse to Dev: Bridging Healthcare and Data](#)
+## 📝 Latest Blog Posts  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oscar.yanez.feijoo)
+
+- [Global MedAssist: Revolutionizing Travel Health Insurance with Generative AI and Multi-Agent Systems](https://medium.com/@oscar.yanez.feijoo/global-medassist-revolutionizing-travel-health-insurance-with-generative-ai-and-multi-agent-b6d7687d4d5a)  
+- [Simulating Medical Operations with AI: A Multi-Agent Workflow with RAG, Audio Playback, and PDF Reports](https://medium.com/@oscar.yanez.feijoo/simulating-medical-operations-with-ai-a-multi-agent-workflow-with-rag-audio-playback-and-pdf-27e02da8e2be)  
+- [Building a Patient-Facing AI Health Assistant: From Medical Reports to Repatriation Plans](https://medium.com/@oscar.yanez.feijoo/building-a-patient-facing-ai-health-assistant-from-medical-reports-to-repatriation-plans-f7b18c286278)  
 
 ---
 
@@ -64,5 +67,5 @@
 🤖 [Hugging Face](https://huggingface.co/OscarYanez85)  
 📊 [Kaggle](https://www.kaggle.com/oscaryezfeijo)  
 🧠 [Dev.to Blog](https://dev.to/oyanez85)
-🤖 [Medium].(https://medium.com/@oscar.yanez.feijoo)
+✍️ [Medium](https://medium.com/@oscar.yanez.feijoo) 
 
