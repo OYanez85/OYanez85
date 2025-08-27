@@ -105,5 +105,6 @@
 👨‍💻 [GitHub](https://github.com/OYanez85)  
 🤖 [Hugging Face](https://huggingface.co/OscarYanez85)  
 📊 [Kaggle](https://www.kaggle.com/oscaryezfeijo)  
-🧠 [Dev.to Blog](https://dev.to/oyanez85)✍️ [Medium](https://medium.com/@oscar.yanez.feijoo) 
+🧠 [Dev.to Blog](https://dev.to/oyanez85)
+✍️ [Medium](https://medium.com/@oscar.yanez.feijoo) 
 
