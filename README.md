@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Oscar Yañez Feijóo
+# 👋 Hi, I'm Oscar Yañez Feijóo: AI & Cybersecurity Engineer | MSc in Data Science & AI | Bridging Medicine & Tech
 
-🚀 **Subject Matter Expert @ AXA | Medical Team Member @ AXA-Assistance | Python Developer | AI & Data Science Enthusiast**  
+🚀 **AI & Data Science Specialist | Cybersecurity Learner | Bridging Healthcare, AI & Automation**
+🎓 MSc in Data Science & AI | 🏅 Kaggle Competitor | 🔐 Cybersecurity Bootcamp Student (Neoland)
 📍 Based in Spain | MSc in Data Science & AI | Bridging Medicine, Automation & Tech
 
 ---
