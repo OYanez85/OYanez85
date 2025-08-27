@@ -32,18 +32,6 @@
 - 🧩 Streamlit, Gradio, FastAPI, GitHub Actions, Raspberry Pi  
 - 📚 Jupyter, VS Code, Kali Linux, Bash, Linux CLI
 
----
-
-## 🌱 Currently Exploring
-- 🎙️ Voice-enhanced AI agents (LangGraph + SSML + ambient sound)  
-- ⚙️ Retrieval-augmented generation (RAG) for healthcare tools  
-- 🌐 Hosting multi-agent simulations on Hugging Face Spaces  
-- 🔐 Personal cloud security with Linux & Pi automation
-
----
-
-## 🛠️ Technologies & Tools  
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,6 +56,16 @@
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20AI-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-008080?style=for-the-badge&logo=medrxiv&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white)
+
+---
+
+---
+
+## 🌱 Currently Exploring
+- 🎙️ Voice-enhanced AI agents (LangGraph + SSML + ambient sound)  
+- ⚙️ Retrieval-augmented generation (RAG) for healthcare tools  
+- 🌐 Hosting multi-agent simulations on Hugging Face Spaces  
+- 🔐 Personal cloud security with Linux & Pi automation
 
 ---
 
