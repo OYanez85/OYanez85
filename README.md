@@ -8,24 +8,6 @@
 
 ---
 
-## 🩺 My Dual Role at AXA
-- 🧠 **Subject Matter Expert in Health – Global Operations Transformation Team**  
-  Designing AI-powered systems to transform medical workflows, automate triage, and optimize global case management.
-
-- 🏥 **Medical Team Member – AXA-Assistance**  
-  Providing clinical support for international health cases, emergency response, and medical travel assistance.
-
----
-
-## 💡 What I’m Passionate About
-- 🤖 **AI Agents & Automation** – Exploring agentic workflows with LangGraph, AutoGen, and LangChain.  
-- 💾 **Raspberry Pi & Parallel Computing** – Running ML clusters and personal cloud storage setups.  
-- 🛡️ **Cybersecurity & Linux** – Ethical hacking labs, Linux automation, and Python for security.  
-- 🧠 **Kaggle & Open Source** – Competing in ML challenges and contributing to meaningful projects.  
-- 🎯 **Voice Interfaces** – Building empathetic agents using Google Cloud TTS with SSML and emotion control.
-
----
-
 ## 🛠️ Technologies & Tools I Use  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -54,8 +36,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-  
-
 
 ---
 
@@ -67,6 +47,22 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=protonvpn&logoColor=white)  
 
 ---
+
+## 🩺 My Dual Role at AXA
+- 🧠 **Subject Matter Expert in Health – Global Operations Transformation Team**  
+  Designing AI-powered systems to transform medical workflows, automate triage, and optimize global case management.
+
+- 🏥 **Medical Team Member – AXA-Assistance**  
+  Providing clinical support for international health cases, emergency response, and medical travel assistance.
+
+---
+
+## 💡 What I’m Passionate About
+- 🤖 **AI Agents & Automation** – Exploring agentic workflows with LangGraph, AutoGen, and LangChain.  
+- 💾 **Raspberry Pi & Parallel Computing** – Running ML clusters and personal cloud storage setups.  
+- 🛡️ **Cybersecurity & Linux** – Ethical hacking labs, Linux automation, and Python for security.  
+- 🧠 **Kaggle & Open Source** – Competing in ML challenges and contributing to meaningful projects.  
+- 🎯 **Voice Interfaces** – Building empathetic agents using Google Cloud TTS with SSML and emotion control.
 
 ---
 
