@@ -2,7 +2,7 @@
 
 🚀 **AI & Data Science Specialist | Cybersecurity Learner | Bridging Healthcare, AI & Automation**
 
-🎓 MSc in Data Science & AI | 🏅 Kaggle Competitor | 🔐 Cybersecurity Bootcamp Student (Neoland)
+🎓 MSc in Data Science & AI | 🏅 Kaggle Competitor | 🔐 Cybersecurity Bootcamp (Neoland)
 
 📍 Based in Spain | MSc in Data Science & AI | Bridging Medicine, Automation & Tech
 
