@@ -101,7 +101,8 @@
 
 ## 🤝 Let’s Collaborate  
 
-📩 **Email:** oscar.yanez.feijoo@gmail.com  
+📩 **Email:** oscar.yanez.feijoo@gmail.com
+🌐 [Webpage](https://oyanez85.github.io/)
 💼 [LinkedIn](https://www.linkedin.com/in/oscar-yanez-feijoo-28474688)  
 👨‍💻 [GitHub](https://github.com/OYanez85)  
 🤖 [Hugging Face](https://huggingface.co/OscarYanez85)  
